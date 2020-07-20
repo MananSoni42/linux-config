@@ -114,7 +114,7 @@ eval "$(direnv hook bash)"
 ## end ##
 
 ## autojump ##
-. /usr/share/autojump/autojump.sh
+. /usr/share/autojump/autojump.bash
 ## end ##
 
 ## custom terminal prompt ##
