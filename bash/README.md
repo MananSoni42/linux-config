@@ -1,6 +1,8 @@
 # Bash
- 
+
 ## Custom prompt
+> Alternatively, you can use [Starship](https://starship.rs/), use the ```starship.toml```  for configruation if you wanted to get started
+
 A simple informative prompt displayed as: **[name|path|git|venv] $**
 *  name: The current effective username
 *  path: Current path
